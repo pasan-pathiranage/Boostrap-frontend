@@ -24,7 +24,7 @@ const getProducts = () => {
                 products += `</div>`;
 
             });
-            document.getElementById(`products`).innerHTML = products;
+            document.getElementById('products').innerHTML = products;
 
             
 
